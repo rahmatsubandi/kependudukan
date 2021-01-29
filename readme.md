@@ -47,22 +47,22 @@
    > username atau password akun phpmyadmin tidak sesuai
    > sesuaikan koneksi database dengan akun phpmyadmin
 
-??. Uncaught Error:Call to undefined function mysql_connect()
-!!. ekstensi mysql tidak tersedia atau sudah tidak di dukung
+3. Uncaught Error:Call to undefined function mysql_connect()
 
-> > . Gunakan versi PHP5 atau versi xampp yang lawas (jadul)
+   > ekstensi mysql tidak tersedia atau sudah tidak di dukung
+   > Gunakan versi PHP5 atau versi xampp yang lawas (jadul)
 
-??. mysqli::real_connect(): / Warning: mysqli_connect():
-!!. ekstensi mysqli tidak tersedia atau tidak di dukung
+4. mysqli::real_connect(): / Warning: mysqli_connect():
 
-> > . Gunakan versi PHP7 ke atas atau versi Xampp terbaru
+   > ekstensi mysqli tidak tersedia atau tidak di dukung
+   > Gunakan versi PHP7 ke atas atau versi Xampp terbaru
 
-??. Tampilan antarmuka tidak muncul atau acak-acakan
-!!. file css / style tidak ditemukan atau belum responsif
+5. Tampilan antarmuka tidak muncul atau acak-acakan
 
-> > . Gunakan internet saat menjalankan-nya atau hapus folder
+   > file css / style tidak ditemukan atau belum responsif
+   > Gunakan internet saat menjalankan-nya atau hapus folder
 
-    yang membungkus folder utama atau master
+   yang membungkus folder utama atau master
 
 ## NOTE
 
